@@ -1,0 +1,11 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Une todo app in typscript",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "M.Leorio",
+  "license": "ISC"
+}
